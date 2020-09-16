@@ -19,7 +19,9 @@ const Header = () => {
         <div className="header__option">Docs</div>
 
         <div className="header__option">Tutorial</div>
-        <div className="header__option">Blog</div>
+        <Link to="/blog">
+          <div className="header__option">Blog</div>
+        </Link>
         <div className="header__option">Community</div>
         <Link to="/login">
           <div className="header__option">Login</div>
