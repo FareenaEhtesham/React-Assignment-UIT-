@@ -48,7 +48,31 @@ function Blog() {
       </div>
 
       <div className="sideBar">
-        <div className="layer">hello</div>
+        <div className="layer">
+          <h2>RECENT POSTS</h2>
+          <ul>
+            <li style={{ fontWeight: "bold" }} className="points">
+              React v17.0 Release Candidate: No New Features
+            </li>
+            <li className="points">React v16.13.0</li>
+            <li className="points">
+              Building Great User Experiences with Concurrent Mode and Suspense
+            </li>
+            <li className="points">
+              Preparing for the Future with React Prereleases
+            </li>
+            <li className="points">Introducing the New React DevTools</li>
+            <li className="points">React v16.9.0 and the Roadmap Update</li>
+            <li className="points">
+              Is React Translated Yet? ¡Sí! Sim! はい！
+            </li>
+            <li className="points">React v16.8: The One With Hooks</li>
+            <li className="points">
+              React v16.7: No, This Is Not the One With Hooks
+            </li>
+            <li className="points">React 16.x Roadmap</li>
+          </ul>
+        </div>
       </div>
     </div>
   );

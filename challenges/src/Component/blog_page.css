@@ -17,13 +17,13 @@
   line-height: 65px;
   font-weight: 700;
   margin: 0.67em 0;
-  width: 70%;
 }
 .starting > p {
-  margin-bottom: 4%;
+  margin-bottom: 9%;
+  margin-top: -2%;
 }
 .para {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 300;
   color: #6d6d6d;
   line-height: 1.7;
@@ -31,7 +31,7 @@
 .articles > h2 {
   line-height: 1.2;
   margin-top: 20px;
-  font-size: 1.5em;
+  font-size: 34px;
   font-weight: bold;
 }
 .articles > p {
@@ -50,4 +50,26 @@
   padding-left: 10%;
   padding-right: 10%;
   padding-top: 10%;
+}
+.layer > h2 {
+  color: rgb(26, 26, 26);
+  padding-right: 7px;
+  padding-left: 7px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 3;
+  letter-spacing: 0.08em;
+}
+.points {
+  color: rgb(26, 26, 26);
+  display: inline-block;
+  margin-top: 5px;
+  border-bottom: 8px solid transparent;
+  margin-top: 5px;
+}
+ul li {
+  padding-left: 7px;
+}
+li {
+  cursor: pointer;
 }
