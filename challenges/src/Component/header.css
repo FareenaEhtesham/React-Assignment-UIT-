@@ -37,6 +37,7 @@
   padding-right: 15px;
   font-weight: 300;
   font-size: 18px;
+  cursor: pointer;
 }
 
 .header__nav {

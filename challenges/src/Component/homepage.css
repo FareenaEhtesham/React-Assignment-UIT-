@@ -40,6 +40,10 @@
   background-color: #61dafb;
   color: #000000;
   padding: 10px 25px;
+  cursor: pointer;
+}
+.getstarted:hover {
+  background-color: white;
 }
 .taking_tutorial {
   display: inline-block;
@@ -47,4 +51,7 @@
   color: #61dafb;
   padding: 10px 25px;
   cursor: pointer;
+}
+.taking_tutorial:hover {
+  color: white;
 }
