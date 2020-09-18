@@ -2,11 +2,10 @@
   background-color: #282c34;
   color: #ffffff;
 }
-
 .main_work {
   padding-left: 20px;
   padding-right: 20px;
-  padding-top: 8%;
+  padding-top: 6%;
   padding-bottom: 8%;
   margin-left: auto;
   margin-right: auto;
@@ -23,12 +22,12 @@
 }
 
 .main_work > p {
-  padding-top: 15px;
+  padding-top: 10px;
   text-align: center;
   font-size: 29px;
   letter-spacing: 0.01em;
   font-weight: 200;
-  padding-bottom: 2%;
+  padding-bottom: 3%;
 }
 .buttons {
   padding-top: 15px;
